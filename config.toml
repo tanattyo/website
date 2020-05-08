@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://uni-code.jp"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "ja"
 # theme
