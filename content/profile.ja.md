@@ -8,7 +8,7 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](/images/avatar.jpg "Hugo Theme LoveIt")
+![Hugo Theme LoveIt](/images/profile.jpg "Hugo Theme LoveIt")
 
 ## プロフィール
 専門はウニの分類学。京都府京都市出身。東京海洋大学海洋科学部海洋環境学科。東京大学理学系研究科生物科学専攻。著書に『ウニハンドブック』（文一総合出版）など。

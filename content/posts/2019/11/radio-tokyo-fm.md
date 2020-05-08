@@ -12,14 +12,6 @@ categories: ["OutPut"]
 featuredImage: "/images/20191127_TokyoFM.jpeg"
 ---
 
-+++
-title = ""
-date = 2019-11-27
-author = "Hayate TANAKA"
-cover = "img/20191127_TokyoFM.jpeg"
-description = ""
-+++
-
 TokyoFMの「山田五郎と中川翔子の『リミックスZ』」というラジオ番組に出演しました。
 地方ごとの放送日時・時間は[こちら](https://park.gsj.mobi/program/show/16735)から可能ですので、是非とも聴いてみてください！
 <br>
