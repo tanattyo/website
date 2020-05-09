@@ -37,7 +37,7 @@ enableEmoji = true
     [languages.ja.menu]
       [[languages.ja.menu.main]]
         identifier = "profile"
-        pre = "<i class='fas fa-user'></i>"
+        pre = "<i class='fas fa-user'></i>&nbsp;"
         post = ""
         name = "自己紹介"
         url = "/profile/"
@@ -45,7 +45,7 @@ enableEmoji = true
         weight = 1
       [[languages.ja.menu.main]]
         identifier = "research"
-        pre = "<i class='fas fa-microscope'></i>"
+        pre = "<i class='fas fa-microscope'></i>&nbsp;"
         post = ""
         name = "研究"
         url = "/research/"
@@ -53,7 +53,7 @@ enableEmoji = true
         weight = 2
       [[languages.ja.menu.main]]
         identifier = "outputs"
-        pre = "<i class='fas fa-book'></i>"
+        pre = "<i class='fas fa-book'></i>&nbsp;"
         post = ""
         name = "業績"
         url = "/outputs/"
@@ -61,7 +61,7 @@ enableEmoji = true
         weight = 3
       [[languages.ja.menu.main]]
         identifier = "posts"
-        pre = "<i class='fas fa-blog'></i>"
+        pre = "<i class='fas fa-blog'></i>&nbsp;"
         post = ""
         name = "投稿"
         url = "/posts/"
@@ -117,15 +117,15 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.jpg"
+          avatarURL = ""
           # title shown in home page
-          title = "田中 颯（Hayate TANAKA）"
+          title = ""
           # subtitle shown in home page
-          subtitle = "ウニを研究しています"
+          subtitle = ""
           # whether to use typeit animation for subtitle
           typeit = false
           # whether to show social links
-          social = true
+          social = false
           # disclaimer (HTML format is supported)
           disclaimer = ""
         # Home page posts
