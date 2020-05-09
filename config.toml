@@ -58,18 +58,10 @@ enableEmoji = true
         identifier = "publication"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
-        name = "出版物"
+        name = "業績"
         url = "/publication/"
         title = ""
         weight = 2
-      [[languages.ja.menu.main]]
-        identifier = "presentation"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = "発表"
-        url = "/presentation/"
-        title = ""
-        weight = 3
     [languages.ja.params]
       # site description
       description = "About LoveIt Theme"
