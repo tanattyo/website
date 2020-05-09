@@ -36,6 +36,14 @@ enableEmoji = true
     # Menu config
     [languages.ja.menu]
       [[languages.ja.menu.main]]
+        identifier = "home"
+        pre = "<i class='fas fa-home'></i>&nbsp;"
+        post = ""
+        name = "ホーム"
+        url = "/"
+        title = ""
+        weight = 1
+      [[languages.ja.menu.main]]
         identifier = "profile"
         pre = "<i class='fas fa-user'></i>&nbsp;"
         post = ""
@@ -420,7 +428,7 @@ enableEmoji = true
     [params.page.seo]
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Hayate TANAKA"
         [params.page.seo.publisher.logo]
           url = "logo.png"
           width = 127
@@ -565,7 +573,7 @@ enableEmoji = true
 
 # Author config
 [author]
-  name = "xxxx"
+  name = "Hayate TANAKA"
   email = ""
   link = ""
 

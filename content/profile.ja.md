@@ -8,11 +8,9 @@ math:
   enable: true
 ---
 
+# 田中颯（Hayate TANAKA）
+
 ![](/images/profile.jpg "著者近影（小笠原宮之浜 2016年7月15日）")
-
-## プロフィール
-
-**田中颯（Hayate TANAKA）**
 
 1994年生まれ。京都府京都市出身。専門はウニの分類学。東京海洋大学海洋科学部海洋環境学科。東京大学理学系研究科生物科学専攻。著書に『ウニハンドブック』（文一総合出版）など。
 
@@ -40,7 +38,7 @@ math:
 
 修士論文：藤田 敏彦 教授（東京大学）
 
-「日本産マメウニ科およびボタンウニ科（棘皮動物：ウニ綱：タコノマクラ目）の系統分類学的研究」Taxonomy and Phylogeny of Fibulariidae and Echinocyamidae (Echinodermata: Echinoidea: Clypeasteroida) fron Japan.
+「日本産マメウニ科およびボタンウニ科（棘皮動物：ウニ綱：タコノマクラ目）の系統分類学的研究」
 
 ## 活動
 
