@@ -36,32 +36,37 @@ enableEmoji = true
     # Menu config
     [languages.ja.menu]
       [[languages.ja.menu.main]]
-        identifier = "posts"
-        # you can add extra information before the name (HTML format is supported), such as icons
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        # you can add extra information after the name (HTML format is supported), such as icons
-        post = ""
-        name = "投稿"
-        url = "/posts/"
-        # title will be shown when you hover on this menu link.
-        title = ""
-        weight = 9
-      [[languages.ja.menu.main]]
         identifier = "profile"
-        pre = "<i class='fab fa-github fa-fw'></i>"
+        pre = "<i class='fas fa-user'></i>"
         post = ""
         name = "自己紹介"
         url = "/profile/"
         title = ""
         weight = 1
       [[languages.ja.menu.main]]
-        identifier = "publication"
-        pre = "<i class='fab fa-github fa-fw'></i>"
+        identifier = "research"
+        pre = "<i class='fas fa-microscope'></i>"
         post = ""
-        name = "業績"
-        url = "/publication/"
+        name = "研究"
+        url = "/research/"
         title = ""
         weight = 2
+      [[languages.ja.menu.main]]
+        identifier = "outputs"
+        pre = "<i class='fas fa-book'></i>"
+        post = ""
+        name = "業績"
+        url = "/outputs/"
+        title = ""
+        weight = 3
+      [[languages.ja.menu.main]]
+        identifier = "posts"
+        pre = "<i class='fas fa-blog'></i>"
+        post = ""
+        name = "投稿"
+        url = "/posts/"
+        title = ""
+        weight = 9
     [languages.ja.params]
       # site description
       description = "About LoveIt Theme"
