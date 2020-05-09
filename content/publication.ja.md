@@ -6,8 +6,6 @@ lightgallery: true
 
 ---
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
-
 ## 編著書
 * 2019-10-25 ウニハンドブック 文一総合出版 主著者
 

@@ -8,8 +8,6 @@ math:
   enable: true
 ---
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
-
 ## 学会発表
 * 田中 颯・藤田敏彦 (2017-01) 現生種ニホンマメウニの殻に見られる2種類の穿孔とその生態学的意義. 日本古生物学会，早稲田大学 口頭発表.
 
@@ -25,4 +23,14 @@ math:
 
 * 田中 颯・若林香織 (2014-12) 叉棘形態に基づく本邦産コメツブウニ属の分類学的再検討. 第11回棘皮動物研究集会，三崎臨海実験所，口頭発表.
 
+## メディア出演など
+
+* 2019-11-26 山田五郎と中川翔子の『リミックスZ』
+https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20
+https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20
+
 ## 一般向け講演
+
+* 2019-11-30 僕たちがウニを集める理由 いきもにあ2019 <https://www.equimonia.net/kouen2019/>
+
+* 2019-10-26 ウニの多様性を知らないなんてもったいない！ ジュンク堂書店池袋本店トークイベント <https://www.bun-ichi.co.jp/tabid/65/Default.aspx?ItemId=135>
