@@ -5,7 +5,7 @@ draft: false
 lightgallery: true
 ---
 
-# 田中颯（Hayate TANAKA）
+## 田中颯（Hayate TANAKA）
 
 ![](/images/profile.jpg "著者近影（小笠原宮之浜 2016年7月15日）")
 

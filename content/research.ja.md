@@ -5,7 +5,7 @@ draft: false
 lightgallery: true
 ---
 
-# 棘皮動物ウニ綱の分類学的研究
+## 棘皮動物ウニ綱の分類学的研究
 
 棘皮動物ウニ綱（Echinodermata:Echinoidea）は世界で1000種程度が知られる分類群です (Kroh & Mooi, 2020)。日本近海はそのうち170種程度が生息しており、世界的にみてもウニの多様性がかなり高い海域であることが伺えます。
 
@@ -15,5 +15,5 @@ lightgallery: true
 
 Kroh, A. & Mooi, R. (2020). World Echinoidea Database. Accessed at http://www.marinespecies.org/echinoidea on 2020-05-09. doi:10.14284/355
 
-# 東大総合博物館重井コレクションの整理
+## 東大総合博物館重井コレクションの整理
 準備中
