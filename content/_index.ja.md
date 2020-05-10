@@ -1,4 +1,4 @@
-## 田中 颯（Hayate TANAKA）のウェブページ
+## 田中 颯（Hayate TANAKA）のウェブサイト
 
 ![](/images/index.jpg "")
 
