@@ -5,11 +5,19 @@ draft: false
 lightgallery: true
 ---
 
-## 田中颯（Hayate TANAKA）
+## 田中 颯（Hayate TANAKA）
 
 ![](/images/profile.jpg "著者近影（小笠原宮之浜 2016年7月15日）")
 
 1994年生まれ。京都府京都市出身。専門はウニの分類学。東京海洋大学海洋科学部海洋環境学科。東京大学理学系研究科生物科学専攻。著書に『ウニハンドブック』（文一総合出版）など。
+
+## 連絡先
+
+[:(fab fa-twitter): Twitter](https://twitter.com/HTanattyo) /
+[:(fab fa-facebook): Facebook](https://www.facebook.com/tanaka.hayate) /
+[:(fab fa-github): Github](https://github.com/tanattyo)
+
+tanattyokana（あっと）gmail.com
 
 ## 略歴
 
