@@ -1,0 +1,12 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tanattyo/my-site.git",
+  "author": "hayate tanaka <tanattyokana@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "markdownlint": "^0.20.2",
+    "markdownlint-cli": "^0.23.0"
+  }
+}

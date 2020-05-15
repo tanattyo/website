@@ -7,11 +7,13 @@ fontawesome: true
 ---
 
 ## 編著書
+
 * 2019-10-25 ウニハンドブック 文一総合出版 主著者 [書店HP <i class="fas fa-external-link-alt"></i>](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-8165-8/Default.aspx)
 
 * 2019-10-04 あなたが知らないウニの世界 ウサギノネドコ 監訳 [書店HP <i class="fas fa-external-link-alt"></i>](https://usaginonedoko.shop-pro.jp/?pid=145610580)
 
 ## 論文
+
 * 森滝 丈也・**田中 颯** (2020) 水槽内で確認されたカガミモチウニ（新称）（カマロドント目アバタサンショウウニ科）の重なり行動. *鳥羽水族館年報*, 16: 35–40.
 
 * 林 亮太・日比野 友亮・**田中 颯**・中島 淳・神保 宇嗣・熊澤 辰徳 (2020)『ニッチェ・ライフ』における生物多様性情報の共有の試み. *ニッチェライフ*, 7: 1–4. [論文PDF <i class="fas fa-external-link-alt"></i>](https://media.niche-life.com/series/007/Niche007_01.pdf)
@@ -33,9 +35,11 @@ fontawesome: true
 * Hiroaki Nakano, Keiichi Kakui, Hiroshi Kajihara, Michitaka Shimomura, Naoto Jimi, Shinri Tomioka, **Hayate Tanaka**, Hiroshi Yamasaki, Masaatsu Tanaka, Takato Izumi, Masanori Okanishi, Yutaro Yamada, Hideo Shinagawa, Toshihiko Sato, Yasutaka Tsuchiya, Akihito Omori, Mamoru Sekifuji, Hisanori Kohtsuka (2015) JAMBIO Coastal Organism Joint Surveys reveals undiscovered biodiversity around Sagami Bay. *Regional Studies in Marine Science*, 2 suppliments: 77–81. [論文掲載ページ（ScienceDirect） <i class="fas fa-external-link-alt"></i>](https://www.sciencedirect.com/science/article/abs/pii/S2352485515000158)
 
 ## 雑誌記事
+
 * 2019-10 雑誌DIVER2019年11月号 ダイバー株式会社 取材協力・写真提供
 
 ## Web媒体記事
+
 * 2019/12/26 その美しさ、謎だらけ。「日本の美しいウニ」 フライデーデジタル <https://friday.kodansha.co.jp/article/86576>
 
 * 2019/12/17 “愛でる”人増加で密かなブーム、「ウニ殻」図鑑の著者が語る魅力 オリコンニュース <https://www.oricon.co.jp/special/54065/>
@@ -43,6 +47,7 @@ fontawesome: true
 * 2018/4/25 あなたの知らない〇〇ワールド 第1回 ウニの世界 〜多種多様なウニ殻の魅力 文一総合出版ウェブマガジンBuna <https://buna.info/runningstory/591/>
 
 ## 学会発表
+
 * **田中 颯**・藤田敏彦 (2017-01) 現生種ニホンマメウニの殻に見られる2種類の穿孔とその生態学的意義. 日本古生物学会，早稲田大学 口頭発表.
 
 * **田中 颯**・藤田敏彦 (2016-12) タコノマクラ目の分子系統解析―マメウニは微小化したカシパンなのか？―. 第13回棘皮動物研究集会，東京海洋大学 口頭発表.
@@ -60,8 +65,8 @@ fontawesome: true
 ## メディア出演など
 
 * 2019-11-26 山田五郎と中川翔子の『リミックスZ』出演
-https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20
-https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20
+<https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20>
+<https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20>
 
 ## 一般向け講演
 

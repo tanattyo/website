@@ -1,6 +1,6 @@
-## 田中 颯（Hayate TANAKA）のウェブサイト
+# 田中 颯（Hayate TANAKA）のウェブサイト
 
-![](/images/index.jpg "")
+![index image](/images/index.jpg "")
 
 棘皮動物ウニ綱の分類学を研究しています。太平洋西岸域を対象にフィールドや博物館を調査し、ウニ類の興味深い多様性の解明に取り組んでいます。
 
