@@ -64,12 +64,11 @@ fontawesome: true
 
 ## メディア出演など
 
-* 2019-11-26 山田五郎と中川翔子の『リミックスZ』出演
-<https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20>
-<https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20>
+* 2020-05-17 TBSラジオ「安住紳一郎の日曜天国」出演「ウニの話」 [番組ページ <i class="fas fa-external-link-alt"></i>](https://www.tbsradio.jp/483564)
 
-* 2020-05-17 TBSラジオ「安住紳一郎の日曜天国」出演
-<https://www.tbsradio.jp/483564>
+* 2019-12-03 山田五郎と中川翔子の『リミックスZ』出演「ウニの話 後編」 [予告Tweet <i class="fas fa-external-link-alt"></i>](https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20)
+
+* 2019-11-26 山田五郎と中川翔子の『リミックスZ』出演「ウニの話 前編」 [予告Tweet <i class="fas fa-external-link-alt"></i>](https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20)
 
 ## 一般向け講演
 
