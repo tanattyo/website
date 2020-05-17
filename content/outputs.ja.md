@@ -68,6 +68,9 @@ fontawesome: true
 <https://twitter.com/jfn_remixZ/status/1199143582017286144?s=20>
 <https://twitter.com/jfn_remixZ/status/1201697003685564417?s=20>
 
+* 2020-05-17 TBSラジオ「安住紳一郎の日曜天国」出演
+<https://www.tbsradio.jp/483564>
+
 ## 一般向け講演
 
 * 2019-11-30 僕たちがウニを集める理由 いきもにあ2019 <https://www.equimonia.net/kouen2019/>
