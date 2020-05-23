@@ -60,14 +60,6 @@ enableEmoji = true
         title = ""
         weight = 2
       [[languages.ja.menu.main]]
-        identifier = "urchin"
-        pre = "<i class='fas fa-certificate'></i>&nbsp;"
-        post = ""
-        name = "ウニ"
-        url = "/urchin/"
-        title = ""
-        weight = 3
-      [[languages.ja.menu.main]]
         identifier = "outputs"
         pre = "<i class='fas fa-book'></i>&nbsp;"
         post = ""

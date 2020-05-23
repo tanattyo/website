@@ -1,9 +1,9 @@
 ---
 title: "ウニ類の裸殻標本の作製方法"
-date: 2019-08-02T11:04:49+08:00
+date: 2020-01-05
+lastmod: 2020-05-23
 draft: false
 lightgallery: true
-
 ---
 
 ## 概要
