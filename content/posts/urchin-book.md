@@ -50,7 +50,6 @@ lightgallery: true
 
 `Heinke Schultz, Hemdingen, Germany : H. & P. Schultz Partner Scientific Publications, 2009`
 
-
 {{< figure src="/images/urchin-book/seaurchinii.jpg" width=300 >}}
 
 ### Sea Urchins III : Worldwide Regular Deep Water Species
