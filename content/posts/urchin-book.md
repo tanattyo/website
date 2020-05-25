@@ -42,15 +42,22 @@ lightgallery: true
 
 ### Sea Urchins I : A guide to Worldwide Shallow Water Species
 
-![Sea Urchins I : A guide to Worldwide Shallow Water Species](/images/urchin-book/seaurchini.jpg "nhbsサムネイルから")
+`Heinke Schultz, Hemdingen, Germany : H. & P. Schultz Partner Scientific Publications, 2005`
+
+{{< figure src="/images/urchin-book/seaurchini.jpg" width=300 >}}
 
 ### Sea Urchins II : Worldwide Irregular Deep Water Species
 
-![Sea Urchins II : Worldwide Irregular Deep Water Species](/images/urchin-book/seaurchinii.jpg "nhbsサムネイルから")
+`Heinke Schultz, Hemdingen, Germany : H. & P. Schultz Partner Scientific Publications, 2009`
+
+
+{{< figure src="/images/urchin-book/seaurchinii.jpg" width=300 >}}
 
 ### Sea Urchins III : Worldwide Regular Deep Water Species
 
-![Sea Urchins III : Worldwide Regular Deep Water Species](/images/urchin-book/seaurchiniii.jpg "nhbsサムネイルから")
+`Heinke Schultz, Hemdingen, Germany : H. & P. Schultz Partner Scientific Publications, 2011`
+
+{{< figure src="/images/urchin-book/seaurchiniii.jpg" width=300 >}}
 
 - 世界中の浅海種からなるI, 深海性不正形類からなるII, 深海性正形類からなるIIIという三部構成の豪華な図鑑です。
 - 膨大な写真と掲載種が魅力。
@@ -60,9 +67,22 @@ lightgallery: true
 
 ## 書籍
 
+### ウニ学
+
+`本川達雄, 東海大学出版会, 2009`
+
+{{< figure src="/images/urchin-book/unigaku.jpg" width=300 >}}
+
+- [Amazon販売ページ](https://www.amazon.co.jp/dp/4486018109/ref=cm_sw_r_tw_dp_U_x_Hy3YEbZHBPXJA), [CiNii](https://ci.nii.ac.jp/ncid/BA89384471)
+- ウニの形態、生態、行動、遺伝などさまざまなトピックを各分野の研究者がオムニバス形式で紹介しています。
+
+---
+
 ### ヒトデ学 棘皮動物のミラクルワールド
 
-![ヒトデ学](/images/urchin-book/hitodegaku.jpg "Amazonサムネイルから")
+`本川達雄, 東海大学出版会, 2001`
+
+{{< figure src="/images/urchin-book/hitodegaku.jpg" width=300 >}}
 
 - [Amazon販売ページ](https://www.amazon.co.jp/dp/4486015525/ref=cm_sw_r_tw_dp_U_x_sH3YEbB5EARVB)
 - 棘皮動物のいろはを知るためのオススメの一冊。
@@ -70,18 +90,11 @@ lightgallery: true
 
 ---
 
-### ウニ学
-
-![ウニ学](/images/urchin-book/unigaku.jpg "Amazonサムネイルより")
-
-- [Amazon販売ページ](https://www.amazon.co.jp/dp/4486018109/ref=cm_sw_r_tw_dp_U_x_Hy3YEbZHBPXJA), [CiNii](https://ci.nii.ac.jp/ncid/BA89384471)
-- ウニの形態、生態、行動、遺伝などさまざまなトピックを各分野の研究者がオムニバス形式で紹介しています。
-
----
-
 ### 動物系統分類学８（中）棘皮動物
 
-![動物系統分類学８（中）棘皮動物](/images/urchin-book/doubutsukeitou.png "田中撮影")
+`内田 亨, 中山書店, 1974`
+
+{{< figure src="/images/urchin-book/doubutsukeitou.png" width=300 >}}
 
 - [CiNii](https://ci.nii.ac.jp/ncid/BN00942958)
 - ウニの形態と分類について体系的にまとめられています。
@@ -90,7 +103,9 @@ lightgallery: true
 
 ### あなたが知らないウニの世界
 
-![profile image](/images/urchin-book/anatagashiranai.jpg "ウサギノネドコOnline storeサムネイルより")
+`Ashley Miskelly, 株式会社ウサギノネドコ, 2019`
+
+{{< figure src="/images/urchin-book/anatagashiranai.jpg" width=300 >}}
 
 - [ウサギノネドコOnline store](https://usaginonedoko.shop-pro.jp/?pid=145610580)
 - オーストラリアとインドー太平洋のウニに焦点をあてた美しい写真集です。
@@ -99,16 +114,20 @@ lightgallery: true
 
 ## サイト
 
-### The Echinoid Directory
+### [The Echinoid Directory](https://www.nhm.ac.uk/our-science/data/echinoid-directory/)
 
-![The Echinoid Directory](/images/urchin-book/theechinoiddirectory.png "サイトのスクリーンショット（2020-05-25時点）")
+{{< figure src="/images/urchin-book/theechinoiddirectory.png" width=600 >}}
 
+- <https://www.nhm.ac.uk/our-science/data/echinoid-directory/>
 - 化石から現生種のほぼすべての属への写真付き検索表や、ウニの進化史・形態に関する専門用語がまとめられたWebサイト。
 - 内容は英語かつ専門性も高いため取り付くのが難しいかも知れませんが、美麗な標本写真を眺めるだけでも楽しめるので、是非ともアクセスしてみてください。
 
-### 重井博士寄贈ウニ・コレクション
+---
 
-![重井博士寄贈ウニ・コレクション](/images/urchin-book/shigei.png "サイトのスクリーンショット（2020-05-25時点）")
+### [重井博士寄贈ウニ・コレクション](http://umdb.um.u-tokyo.ac.jp/DPastExh/Museum/ouroboros/10_02/shinki.html)
 
-- Ouroboros
-- http://umdb.um.u-tokyo.ac.jp/DPastExh/Museum/ouroboros/10_02/shinki.html
+{{< figure src="/images/urchin-book/shigei.png" width=600 >}}
+
+- <http://umdb.um.u-tokyo.ac.jp/DPastExh/Museum/ouroboros/10_02/shinki.html>
+- 日本のウニを学ぶ上で、故・重井陸夫博士の功績を知っておくことも重要と思います。
+- このページでは重井陸夫博士の人柄やコレクションの性質についてまとめられています。
