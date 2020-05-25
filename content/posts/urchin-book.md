@@ -14,13 +14,31 @@ lightgallery: true
 
 ## 図鑑
 
+### ウニハンドブック
+
+`田中 颯・大作晃一・幸塚久典, 文一総合出版, 2019`
+
+{{< figure src="/images/urchin-book/uni-hand-book.jpg" width=300 >}}
+
+- [文一総合出版サイト](https://www.bun-ichi.co.jp/tabid/57/pdid/978-4-8299-8165-8/Default.aspx), [Amazon販売リンク](https://www.amazon.co.jp/dp/B07ZJBMK9Y/ref=cm_sw_r_tw_dp_U_x_CR7YEbFRSSRS8)
+- 著者なのでちょっと紹介するの気恥ずかしいですが。
+- 日本近海に生息する浅海性のウニ類をほぼ網羅した図鑑です（103種掲載）。
+- ウニの基礎知識や、目のおおよその同定方法などが載っています。
+- 入門書としては適していると思います。
+
+---
+
 ### 相模湾産海胆類
 
-![相模湾産海胆類](/images/urchin-book/sagami.jpg "田中撮影")
+`重井陸夫, 生物学御研究所編, 丸善, 1986`
+
+{{< figure src="/images/urchin-book/sagami.jpg" width=300 >}}
 
 - [CiNii](https://ci.nii.ac.jp/ncid/BN02284458)
-- 美しい図版と詳細な記載からなる国内で最もまとまったウニの図鑑です。
-- 掲載種は相模湾近海の種に限られるが、日本近海に生息するかなりの種をカバーしています。
+- 美しい図版と詳細な記載からなる相模湾産のウニの図鑑です。
+- 掲載種は相模湾近海の種に限られますが、浅海種から深海種まで幅広くカバーします。
+- 葉山御用邸にある生物学御研究所で昭和天皇がご採集になったウニを、当時のウニ分類学者である重井陸夫博士がまとめた図鑑です。
+- 既に絶版で、発行部数も多くなかったことから新規に入手することは恐らく不可能です。[CiNii](https://ci.nii.ac.jp/ncid/BN02284458)で収蔵している大学図書館を確認し、アクセスしましょう。
 
 ### Sea Urchins I : A guide to Worldwide Shallow Water Species
 
