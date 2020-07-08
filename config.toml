@@ -230,7 +230,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = " Hayate TANAKA"
+      name = " Hayate TANAKA's website"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fas fa-certificate'></i>&nbsp;"
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -428,7 +428,7 @@ enableEmoji = true
     [params.page.seo]
       # Publisher info
       [params.page.seo.publisher]
-        name = "Hayate TANAKA"
+        name = "田中 颯（Hayate TANAKA）"
         [params.page.seo.publisher.logo]
           url = "logo.png"
           width = 127
@@ -573,7 +573,7 @@ enableEmoji = true
 
 # Author config
 [author]
-  name = "Hayate TANAKA"
+  name = "田中 颯 (Hayate TANAKA)"
   email = ""
   link = ""
 
