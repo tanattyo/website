@@ -68,11 +68,19 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.ja.menu.main]]
-        identifier = "posts"
+        identifier = "urchin"
+        pre = "<i class='fas fa-blog'></i>&nbsp;"
+        post = ""
+        name = "ウニの情報"
+        url = "/categories/research"
+        title = ""
+        weight = 5
+      [[languages.ja.menu.main]]
+        identifier = "news"
         pre = "<i class='fas fa-blog'></i>&nbsp;"
         post = ""
         name = "投稿"
-        url = "/posts/"
+        url = "/categories/news"
         title = ""
         weight = 9
     [languages.ja.params]

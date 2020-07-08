@@ -2,6 +2,7 @@
 title: "ウニ類の裸殻標本の作製方法"
 date: 2020-01-05
 draft: false
+categories: ["research"]
 ---
 
 ## 概要

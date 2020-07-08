@@ -2,6 +2,7 @@
 title: "ウニを学ぶために役立つ書籍・図鑑・サイト"
 date: 2020-05-25
 draft: false
+categories: ['research']
 lightgallery: true
 ---
 

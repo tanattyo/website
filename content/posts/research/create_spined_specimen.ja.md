@@ -3,6 +3,7 @@ title: "ウニ類の有棘標本の作製方法"
 date: 2020-01-05
 lastmod: 2020-05-23
 draft: false
+categories: ['research']
 lightgallery: true
 markdown: true
 ---
