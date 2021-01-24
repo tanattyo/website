@@ -14,6 +14,8 @@ fontawesome: true
 
 ## 論文
 
+* 佐々木　渉太 ・**田中 颯** (2020) 高知県宿毛市にて採集したクロスジラッパウニ*Toxopneustes elegans* Döderlein,1885（ウニ綱：カマロドント目）. *ニッチェライフ*, 8: 42-44. [論文PDF <i class="fas fa-external-link-alt"></i>](https://media.niche-life.com/series/008/Niche008_13.pdf)
+
 * 森滝 丈也・**田中 颯** (2020) 水槽内で確認されたカガミモチウニ（新称）（カマロドント目アバタサンショウウニ科）の重なり行動. *鳥羽水族館年報*, 16: 35–40.
 
 * 林 亮太・日比野 友亮・**田中 颯**・中島 淳・神保 宇嗣・熊澤 辰徳 (2020)『ニッチェ・ライフ』における生物多様性情報の共有の試み. *ニッチェライフ*, 7: 1–4. [論文PDF <i class="fas fa-external-link-alt"></i>](https://media.niche-life.com/series/007/Niche007_01.pdf)
