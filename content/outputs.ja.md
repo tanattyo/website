@@ -20,6 +20,8 @@ fontawesome: true
 
 * 林 亮太・日比野 友亮・**田中 颯**・中島 淳・神保 宇嗣・熊澤 辰徳 (2020)『ニッチェ・ライフ』における生物多様性情報の共有の試み. *ニッチェライフ*, 7: 1–4. [論文PDF <i class="fas fa-external-link-alt"></i>](https://media.niche-life.com/series/007/Niche007_01.pdf)
 
+* Tsuyoshi Takano, **Hayate Tanaka**, Yasunori Kano (2019). A New Species of *Mucronalia* (Gastropoda: Eulimidae) Parasitizing the Ophiocomid Brittle Star *Ophiomastix mixta* in Japan. *Venus (Journal of the Malacological Society of Japan)*, 77(1), 45–50. [論文掲載ページ（J-STAGE） <i class="fas fa-external-link-alt"></i>](https://www.jstage.jst.go.jp/article/venus/77/1-4/77_45/_article)
+
 * **Hayate Tanaka**, Takuo Higashiji, Toshihiko Fujita (2019) Record of *Eremopyga denudata* (de Meijere, 1903) (Echinoida, Diadematoida, Diadematidae) from the Ryukyu Archipelago, Japan. *Fauna Ryukyuana*, 48: 9–18. [論文PDF <i class="fas fa-external-link-alt"></i>](http://w3.u-ryukyu.ac.jp/naruse/lab/2019J_files/48-3_Tanaka_etal.pdf)
 
 * **Hayate Tanaka**, Wakabayashi Kaori, Tshihiko Fujita (2019) A new species of *Fibularia* from Japanese waters with a redescription of *F. japonica* and *F. ovulum* (Echinodermata: Echinoidea: Clypeasteroida). *Zootaxa*, 4543: 241–260. [論文掲載ページ（Zootaxa） <i class="fas fa-external-link-alt"></i>](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4543.2.4)
